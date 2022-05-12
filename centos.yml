@@ -54,4 +54,5 @@
       name: "$USER"
       groups: "docker"
       append: "yes"
+
 ...
